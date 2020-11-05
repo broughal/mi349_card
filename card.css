@@ -7,3 +7,7 @@ body {
 img {
     width: 100%;
 }
+
+.card {
+    background-color: #f3f3f3;
+}
