@@ -17,5 +17,6 @@ img {
 }
 
 .card .avatar {
-    back
+    width: 100px;
+    border-radius: 15px;
 }
