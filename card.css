@@ -27,3 +27,7 @@ img {
     margin: 0;
     padding: 0;
 }
+
+.contacts li {
+    width: 30px;
+}
