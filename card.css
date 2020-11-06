@@ -31,4 +31,5 @@ img {
 
 .contacts li {
     width: 30px;
+    display: inline-block;
 }
